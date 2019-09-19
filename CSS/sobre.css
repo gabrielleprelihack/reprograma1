@@ -1,0 +1,6 @@
+.classe1 {
+     background: blue;  
+}
+<p style="color: blue">Parágrafo com fonte azul.</p>
+<p>Esse outro parágrafo não é azul, a não ser que
+exista <span style="color: red">CSS em outro lugar</span>.</p>
